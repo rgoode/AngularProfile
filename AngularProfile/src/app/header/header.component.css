@@ -1,0 +1,36 @@
+.Links{
+    background-color: rgb(241, 164, 136);
+    display: flexbox;
+    text-align: center;
+    
+}
+.button1 {
+    background-color: rgb(180, 202, 243);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button2 {
+    background-color:rgb(238, 151, 122);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button3 {
+    background-color: rgb(161, 197, 243);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }

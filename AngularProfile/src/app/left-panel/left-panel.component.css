@@ -1,0 +1,8 @@
+img{
+
+    display: flexbox;
+    flex-direction: column;
+    width: 10em;
+    height: 10em;
+    object-fit: cover;
+}

@@ -1,0 +1,21 @@
+<p>form works!</p>
+
+<p>email: {{ emailFormControl.value}}</p> 
+<p>message: {{ messageFormControl.value}}</p>
+
+<form>
+    <div class ="emailInput">
+        <label for = "email">Enter your email</label>
+        <input type = "text" [formControl]="emailFormControl" />  
+        <button type="submit">Submit</button>    
+    </div>
+
+    <div class ="messageInput">
+        <label for = "message">Type me a message I will never see</label>
+        <input type = "text" [formControl]="messageFormControl" />
+    </div>
+</form>
+
+<pre>
+	{{ emailFormControl.value | json }}
+</pre>

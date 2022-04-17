@@ -1,0 +1,43 @@
+.phone{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
+
+.contactMessage{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 15vh;
+    flex-basis: 7.5%;
+    align-items: center;
+}
