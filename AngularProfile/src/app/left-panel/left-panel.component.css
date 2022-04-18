@@ -1,8 +1,26 @@
-img{
-
+.leftPanel1{
+    nav-right: auto;
     display: flexbox;
     flex-direction: column;
-    width: 10em;
-    height: 10em;
-    object-fit: cover;
+    width: 50%;
+    height: 50%;
+    object-fit: left;
+}
+
+.leftPanel2{
+    nav-right: auto;
+    display: flexbox;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    object-fit: left;
+}
+img{
+    nav-left: auto;
+    display: flexbox;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    object-fit: left;
+
 }

@@ -1,0 +1,26 @@
+.rightPanel1{
+    nav-right: auto;
+    display: flexbox;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    object-fit: right;
+}
+
+.rightPanel2{
+    nav-right: auto;
+    display: flexbox;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    object-fit: right;
+}
+img{
+    nav-left: auto;
+    display: flexbox;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    object-fit: right;
+
+}
